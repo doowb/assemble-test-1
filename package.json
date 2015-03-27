@@ -1,7 +1,10 @@
 {
-    "name": "assemble-test",
-    "author": "arnaud@pandaa.fr",
-    "dependencies": {
-        "assemble": "beta"
-    }
+  "name": "assemble-test",
+  "author": "arnaud@pandaa.fr",
+  "dependencies": {
+    "assemble": "beta"
+  },
+  "devDependencies": {
+    "gulp-extname": "^0.2.0"
+  }
 }
