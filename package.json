@@ -1,0 +1,7 @@
+{
+    "name": "assemble-test",
+    "author": "arnaud@pandaa.fr",
+    "dependencies": {
+        "assemble": "beta"
+    }
+}
